@@ -1,0 +1,11 @@
+﻿Build started 11/5/2017 2:30:29 PM.
+     1>Project "D:\iGraphicsDemo\iGraphicsDemo\iGraphicsDemo.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\iGraphicsDemo\Debug\iGraphicsDemo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\iGraphicsDemo\Debug\iGraphicsDemo.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\iGraphicsDemo\Debug\iGraphicsDemo.lib" /MACHINE:X86 Debug\BallDemo.obj
+         GLUT32.LIB
+     1>LINK : fatal error LNK1104: cannot open file 'glaux.lib'
+     1>Done Building Project "D:\iGraphicsDemo\iGraphicsDemo\iGraphicsDemo.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.11

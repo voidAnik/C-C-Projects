@@ -1,0 +1,15 @@
+﻿Build started 4/9/2018 5:24:33 PM.
+     1>Project "C:\Users\Anik_Islam0\documents\visual studio 2013\Projects\Linked_list\Linked_list\Linked_list.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Local Disk C\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\anik_islam0\documents\visual studio 2013\projects\linked_list\linked_list\source.cpp(15): error C2664: 'node::node(const node &)' : cannot convert argument 1 from 'node *' to 'const node &'
+                 Reason: cannot convert from 'node *' to 'const node'
+                 No constructor could take the source type, or constructor overload resolution was ambiguous
+     1>c:\users\anik_islam0\documents\visual studio 2013\projects\linked_list\linked_list\source.cpp(33): error C2440: 'initializing' : cannot convert from 'node' to 'node *'
+                 No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+     1>Done Building Project "C:\Users\Anik_Islam0\documents\visual studio 2013\Projects\Linked_list\Linked_list\Linked_list.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.34

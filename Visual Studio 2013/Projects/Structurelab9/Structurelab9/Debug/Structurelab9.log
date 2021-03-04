@@ -1,0 +1,18 @@
+﻿Build started 9/20/2017 1:50:13 AM.
+     1>Project "C:\Users\Anik Islam\documents\visual studio 2013\Projects\Structurelab9\Structurelab9\Structurelab9.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 3.cpp Source.cpp
+         Source.cpp
+     1>c:\users\anik islam\documents\visual studio 2013\projects\structurelab9\structurelab9\source.cpp(18): error C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(254) : see declaration of 'gets'
+     1>c:\users\anik islam\documents\visual studio 2013\projects\structurelab9\structurelab9\source.cpp(28): error C2086: 'int i' : redefinition
+                 c:\users\anik islam\documents\visual studio 2013\projects\structurelab9\structurelab9\source.cpp(14) : see declaration of 'i'
+         3.cpp
+     1>c:\users\anik islam\documents\visual studio 2013\projects\structurelab9\structurelab9\3.cpp(36): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\anik islam\documents\visual studio 2013\projects\structurelab9\structurelab9\3.cpp(39): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+         Generating Code...
+     1>Done Building Project "C:\Users\Anik Islam\documents\visual studio 2013\Projects\Structurelab9\Structurelab9\Structurelab9.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.64

@@ -1,0 +1,13 @@
+﻿Build started 1/16/2018 3:44:11 AM.
+     1>Project "C:\Users\Anik_Islam0\Documents\Visual Studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Local Disk C\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MineSweeper.cpp
+         MineSweeper.cpp
+       Link:
+         D:\Local Disk C\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Anik_Islam0\Documents\Visual Studio 2013\Projects\MineSweeper\Debug\MineSweeper.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Anik_Islam0\Documents\Visual Studio 2013\Projects\MineSweeper\Debug\MineSweeper.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Anik_Islam0\Documents\Visual Studio 2013\Projects\MineSweeper\Debug\MineSweeper.lib" /MACHINE:X86 Debug\MineSweeper.obj
+         MineSweeper.vcxproj -> C:\Users\Anik_Islam0\Documents\Visual Studio 2013\Projects\MineSweeper\Debug\MineSweeper.exe
+     1>Done Building Project "C:\Users\Anik_Islam0\Documents\Visual Studio 2013\Projects\MineSweeper\MineSweeper\MineSweeper.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.92
